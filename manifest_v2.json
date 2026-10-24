@@ -1,0 +1,41 @@
+{
+  "item": {
+    "id": "979821130209",
+    "restype": "watchface",
+    "name": "波普圆点",
+    "description": "上世纪六十年代，罗伊·利希滕斯坦把漫画书里最廉价的印刷网点，一笔一笔放大，挂进了美术馆。\n他证明了一件事：最寻常的东西，也值得被郑重看待。\n\n这块表盘接过的正是这份野心。指针走过的每一秒，都落在与画作同源的 Ben-Day 网点上——玫红、明黄、浓黑，商业印刷的三色，被搬上手腕。",
+    "preview": [
+      "media/2cover_v_1440x2160.png",
+      "media/3aod_1440x2160.png",
+      "media/4concept_1440x2160.png"
+    ],
+    "icon": "media/face-256.png",
+    "cover": "media/cover_2160x1440.png",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "支持我",
+      "url": "https://imwjh.com/support-me/zh",
+      "icon": "heart"
+    },
+    {
+      "title": "seegood.top",
+      "url": "https://seegood.top",
+      "icon": "airplane-tilt"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "0.0.0",
+      "file_name": "downloads/19波普圆点-10-24-11-50.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {}
+}
